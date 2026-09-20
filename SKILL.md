@@ -1,4 +1,4 @@
-﻿---
+---
 name: ntascript-writer
 description: 根据自然语言需求生成合规的 NTAScript（.nta）脚本——LightTracker 自动化实验脚本语言。用户说"帮我写个脚本""写个 .nta""我要测37度重复5次"时触发。完整覆盖语法规则、15 个命令参数、常见陷阱、完整示例、错误对照与排查指南，无需项目源码即可生成正确脚本。
 allowed-tools: Read, Write, Grep, Glob

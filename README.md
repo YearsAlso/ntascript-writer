@@ -1,4 +1,4 @@
-﻿# ntascript-writer
+# ntascript-writer
 
 给 AI 助手用的 Skill——根据自然语言需求自动生成 LightTracker 的自动化实验脚本（.nta 文件）。
 
